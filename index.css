@@ -1,0 +1,15 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-self: center;
+    flex-direction: column;
+}
+svg{
+    background-color: aqua;
+}
+#tooltip{
+    visibility: hidden;
+    width: auto;
+    height: auto;
+}
